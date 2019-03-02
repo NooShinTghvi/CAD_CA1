@@ -1,0 +1,159 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/intelFPGA/16.1
+vA
+Z0 !s110 1551527405
+!i10b 1
+!s100 K8<0n2V^<0;?h?L1DeoP[0
+IUOka[_AG1iidH`68RCZQo0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1
+w1551527396
+8D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\TB.v
+FD:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\TB.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1551527405.000000
+!s107 D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\TB.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a
+vDff
+R0
+!i10b 1
+!s100 ]UFcd`hUXA[?L@TX505j33
+I@oGoOCG?Jl=fi_9@?1?5C2
+R1
+R2
+Z7 w1551527241
+Z8 8D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v
+Z9 FD:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v
+L0 46
+R3
+r1
+!s85 0
+31
+R4
+Z10 !s107 D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v|
+!i113 1
+R5
+R6
+n@dff
+vright_register
+Z12 !s110 1551525343
+!i10b 1
+!s100 2nceFPbFZOhC9PH`l5c8I1
+ID^zQf:1ND0S5fOe=T0gV@1
+R1
+R2
+Z13 w1551525337
+R8
+R9
+L0 28
+R3
+r1
+!s85 0
+31
+Z14 !s108 1551525343.000000
+R10
+R11
+!i113 1
+R5
+R6
+vserial_adder
+R0
+!i10b 1
+!s100 _L6JN3P7TC^nFES?=0NzV3
+I3aXTT_belAjeg[Wa7XJ431
+R1
+R2
+R7
+R8
+R9
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vshift_register
+R12
+!i10b 1
+!s100 igX1nkTVHANPeX1UK]EXV1
+IAH4z`om2VOh6Vmb3QzM=z3
+R1
+R2
+R13
+R8
+R9
+L0 11
+R3
+r1
+!s85 0
+31
+R14
+R10
+R11
+!i113 1
+R5
+R6
+vshift_register_in
+R0
+!i10b 1
+!s100 Z8]=b@<PnmMcoXNFD@LRj0
+I<H_69dAMR^=XO?=2`O?H?0
+R1
+R2
+R7
+R8
+R9
+L0 33
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vshift_register_out
+R0
+!i10b 1
+!s100 IE2cCTilzZzM]o0H`IoMH1
+Ib?0<UnAoWOo1:NaI1o7g=2
+R1
+R2
+R7
+R8
+R9
+L0 16
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6

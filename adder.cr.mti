@@ -1,0 +1,11 @@
+{D:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1/adder.v} {1 {vlog -work work -stats=none {D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module serial_adder
+-- Compiling module shift_register_out
+-- Compiling module shift_register_in
+-- Compiling module Dff
+
+Top level modules:
+	serial_adder
+
+} {} {}}
