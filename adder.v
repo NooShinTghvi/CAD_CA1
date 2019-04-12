@@ -13,7 +13,7 @@ module serial_adder #(parameter N = 4) (
     assign cout = carry_out;
 endmodule
 
-module shift_register_out #(parameter N = 4) (
+module shift_register_out #(parameter N = 4) (  //This module takes out 1 bit and shift right every clk
         input clk,rst,ld,
         input [N-1:0] q,
         output y_out
@@ -30,7 +30,7 @@ module shift_register_out #(parameter N = 4) (
                         y_out;
 endmodule
 
-module shift_register_in #(parameter N = 4) (
+module shift_register_in #(parameter N = 4) ( //This module replases 1 bit and shift right every clk
         input clk,rst,ld,y_in,
         output [N-1:0] y
     );
