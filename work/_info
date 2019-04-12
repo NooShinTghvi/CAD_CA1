@@ -9,151 +9,151 @@ z2
 cModel Technology
 dE:/intelFPGA/16.1
 vA
-Z0 !s110 1551527405
+!s110 1555060270
 !i10b 1
-!s100 K8<0n2V^<0;?h?L1DeoP[0
-IUOka[_AG1iidH`68RCZQo0
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dD:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1
-w1551527396
-8D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\TB.v
-FD:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\TB.v
+!s100 k:nQiL0_emQ>N<E2``FS>1
+I0PBTQWmS8N2RGPoRH5:_H0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1
+w1555060206
+8D:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1/TB.v
+FD:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1/TB.v
 L0 3
-Z3 OV;L;10.5b;63
+Z2 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1551527405.000000
-!s107 D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\TB.v|
-!s90 -reportprogress|300|-work|work|-stats=none|D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\TB.v|
+!s108 1555060270.000000
+!s107 D:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1/TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1/TB.v|
 !i113 1
-Z5 o-work work
-Z6 tCvgOpt 0
+Z3 o-work work
+Z4 tCvgOpt 0
 n@a
 vDff
-R0
+Z5 !s110 1555060366
 !i10b 1
-!s100 ]UFcd`hUXA[?L@TX505j33
-I@oGoOCG?Jl=fi_9@?1?5C2
+!s100 IkW7:W5`L<kN[6dm^zJ002
+IeTMGTLO<1VCoMO;jz6YX=1
+R0
 R1
-R2
-Z7 w1551527241
-Z8 8D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v
-Z9 FD:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v
+Z6 w1555060353
+Z7 8D:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1/adder.v
+Z8 FD:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1/adder.v
 L0 46
-R3
+R2
 r1
 !s85 0
 31
-R4
-Z10 !s107 D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v|
-Z11 !s90 -reportprogress|300|-work|work|-stats=none|D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v|
+Z9 !s108 1555060366.000000
+Z10 !s107 D:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1/adder.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|D:/others/Spring 98/Computer aided Design of Digital Systems (CAD)/CA/1/adder.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@dff
 vright_register
 Z12 !s110 1551525343
 !i10b 1
 !s100 2nceFPbFZOhC9PH`l5c8I1
 ID^zQf:1ND0S5fOe=T0gV@1
+R0
 R1
-R2
 Z13 w1551525337
-R8
-R9
+Z14 8D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v
+Z15 FD:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v
 L0 28
-R3
+R2
 r1
 !s85 0
 31
-Z14 !s108 1551525343.000000
-R10
-R11
+Z16 !s108 1551525343.000000
+Z17 !s107 D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|D:\others\Spring 98\Computer aided Design of Digital Systems (CAD)\CA\1\adder.v|
 !i113 1
-R5
-R6
+R3
+R4
 vserial_adder
-R0
+R5
 !i10b 1
-!s100 _L6JN3P7TC^nFES?=0NzV3
-I3aXTT_belAjeg[Wa7XJ431
+!s100 ;^GV`O5NRX5GRW?5Y0h4E3
+I^0z_UIzmkFm:Y_9GLBh^;2
+R0
 R1
-R2
+R6
 R7
 R8
-R9
 L0 1
-R3
+R2
 r1
 !s85 0
 31
-R4
+R9
 R10
 R11
 !i113 1
-R5
-R6
+R3
+R4
 vshift_register
 R12
 !i10b 1
 !s100 igX1nkTVHANPeX1UK]EXV1
 IAH4z`om2VOh6Vmb3QzM=z3
+R0
 R1
-R2
 R13
-R8
-R9
-L0 11
-R3
-r1
-!s85 0
-31
 R14
-R10
-R11
+R15
+L0 11
+R2
+r1
+!s85 0
+31
+R16
+R17
+R18
 !i113 1
-R5
-R6
+R3
+R4
 vshift_register_in
-R0
+R5
 !i10b 1
-!s100 Z8]=b@<PnmMcoXNFD@LRj0
-I<H_69dAMR^=XO?=2`O?H?0
+!s100 OnZef8_Ga<A0WHQ3Y28gG1
+IeVMQin`bLf`Y`UC3]U:V`0
+R0
 R1
-R2
+R6
 R7
 R8
-R9
 L0 33
-R3
+R2
 r1
 !s85 0
 31
-R4
+R9
 R10
 R11
 !i113 1
-R5
-R6
+R3
+R4
 vshift_register_out
-R0
+R5
 !i10b 1
-!s100 IE2cCTilzZzM]o0H`IoMH1
-Ib?0<UnAoWOo1:NaI1o7g=2
+!s100 4=1^>^]`Zmjii7[VfJWZ`0
+I;Y04[J:K3XoAG9oFZAoPc1
+R0
 R1
-R2
+R6
 R7
 R8
-R9
 L0 16
-R3
+R2
 r1
 !s85 0
 31
-R4
+R9
 R10
 R11
 !i113 1
-R5
-R6
+R3
+R4
